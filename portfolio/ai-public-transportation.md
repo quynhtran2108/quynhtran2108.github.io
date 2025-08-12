@@ -65,7 +65,7 @@ Using transparent & just-in-time requests to build trust with our users and ensu
 <hr class="section-divider">
 
 ## Working Process
-<img src="/assets/solita-design process.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/solita-designprocess.avif" style="width:100%; display:block; margin:auto;" />
 <p style="text-align:center;"><em>Figure: Design process</em></p>
 
 ### Empathize

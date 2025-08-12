@@ -5,6 +5,8 @@ title: "Usability testing for the remote driving system"
 
 <article class="portfolio-post-content">
 
+<img src="/assets/remote-thumbnails.png" alt=" Screenshot" style="max-width:600px;width:100%;margin-bottom:2rem;">
+
 # Usability testing for the remote driving system
 
 ## My role 

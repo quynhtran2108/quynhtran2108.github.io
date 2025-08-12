@@ -5,6 +5,8 @@ title: "Role-playing game for teen education — Metaverse & Web3 Hackathon"
 
 <article class="portfolio-post-content">
 
+<img src="/assets/web3-thumbnails.png" alt="Web3 Screenshot" style="max-width:600px;width:100%;margin-bottom:2rem;">
+
 # Role-playing game for teen education — Metaverse & Web3 Hackathon
 
 **Challenge:**  

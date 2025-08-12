@@ -5,6 +5,8 @@ title: "Docshunter – Redesign the Document Searching Tool"
 
 <article class="portfolio-post-content">
 
+<img src="/assets/docshunter-thumbnails.webp" alt="docshunter Screenshot" style="max-width:600px;width:100%;margin-bottom:2rem;">
+
 # Docshunter – Redesign the Document Searching Tool
 
 **Client:** Resonance Tech  

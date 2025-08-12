@@ -5,9 +5,11 @@ title: "Graduation thesis: Building the Design System AI Chatbot"
 
 <article class="portfolio-post-content">
 
+<img src="/assets/thumbnails.webp" alt="Chatbot Screenshot" style="max-width:600px;width:100%;margin-bottom:2rem;">
+
 <section id="portfolio" class="section active">
   <h1>Graduation thesis: Building the Design System AI Chatbot</h1>
-  <img src="/assets/thumbnails.webp" alt="thumbnails" class="thumbnail-image"/>
+
   <h5>Published: 14.08.2025</h5>
 
   <em>Using a Research-through-Design approach, the study involved interviews, chatbot development, and user testing to evaluate human-chatbot interaction in a professional setting. Key outcomes include communication guidelines for effective workplace chatbots, user insights on trust and utility, and a structured design process for future chatbot assistant integration.</em>

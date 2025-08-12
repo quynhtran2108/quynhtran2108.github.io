@@ -5,6 +5,8 @@ title: "Preserving personal conversation in friendly and accessible way for the 
 
 <article class="portfolio-post-content">
 
+<img src="/assets/museum-thumbnails.png" alt="museum Screenshot" style="max-width:600px;width:100%;margin-bottom:2rem;">
+
 # Preserving personal conversation in friendly and accessible way for the museum
 
 **Challenge:**  
