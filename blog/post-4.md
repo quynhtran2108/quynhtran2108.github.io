@@ -16,7 +16,7 @@ summary: "One element is killing your design thinking, not the skill, but the im
 
 <hr class="section-divider">
 
-![Illustration by Ivan Mesaroš](/assets/blog-4,%201.webp)
+![Illustration by Ivan Mesaroš](/assets/blog-4,1.webp)
 
 Imposter syndrome is very common among designers, particularly those who are new to the field. There are tons of things to learn, while you have no idea where to start or cope with multiple works and clients. It leaves you feeling insecure from the inside. Impostor syndrome can manifest itself in a variety of ways in the workplace. For instance, you feel that you’re not enough for the task and never fulfil the expectation unless you meet all of the requirements, take on extra work to ensure you’re completing everything, and dismiss praise. Design is a harsh process, and it takes a long-term to fulfil your skills. Thus, it’s normal to be apprehensive at first. Impostor syndrome is one of the challenges we all encounter as we advance in our careers. Everyone, from the junior, senior to executives, might feel like an impostor at times. There are a variety of reasons why we may experience imposter syndrome.
 
@@ -35,7 +35,7 @@ It is easy to connect with people worldwide nowadays, and you frequently match s
 
 <hr class="section-divider">
 
-![Illustration by Author](/assets/blog-4,%202.webp)
+![Illustration by Author](/assets/blog-4,2.webp)
 
 ## How to overcome the imposter syndrome?
 

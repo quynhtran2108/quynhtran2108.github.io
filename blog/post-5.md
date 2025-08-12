@@ -16,7 +16,7 @@ summary: "Virtual tourism is getting more and more popular nowadays, and how the
 >Virtual tourism is getting more and more popular nowadays, and how the VR/AR Designer can take advantage of it.
 
 
-![Photo by Ibrahim Rifath on Unsplash](/assets/blog-3,%201.webp)
+![Photo by Ibrahim Rifath on Unsplash](/assets/blog-3,1.webp)
 
 ## Virtual tourism is in demand.
 
@@ -34,7 +34,7 @@ A VR/AR designer’s tasks and duties aim to resolve the method of creating a us
 
 <hr class="section-divider">
 
-![Photo by Barbara Zandoval on Unsplash](/assets/blog-3,%202.webp)
+![Photo by Barbara Zandoval on Unsplash](/assets/blog-3,2.webp)
 
 The development of conversation interfaces is explosive in intelligent virtual assistants like Siris, Google intending to adapt all the customers’ requirements through voice interaction. In contrast, virtual reality products can implement these conversational features and automobile navigation systems through voices and chatbots to enhance the user experiences. In this case, an AR/VR designer also plays a conservation designer, who incorporates natural, real-world conversational behaviours into the interactions between users and systems.
 

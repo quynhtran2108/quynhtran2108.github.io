@@ -14,7 +14,7 @@ summary: "This is the content of your latest blog post. Add your insights here!"
 
 <hr class="section-divider">
 
-![Photo by Austin Distel on Unsplash](/assets/blog-2,%201.webp)
+![Photo by Austin Distel on Unsplash](/assets/blog-2,1.webp)
 
 ## WHY
 
@@ -42,7 +42,7 @@ You started thinking and planning for participant observation but don’t know w
 
 <hr class="section-divider">
 
-![Photo by Yolanda Sun on Unsplash](/assets/blog-2,%202.webp)
+![Photo by Yolanda Sun on Unsplash](/assets/blog-2,2.webp)
 
 ## WHAT
 
@@ -64,17 +64,17 @@ Observations are recorded to be useful and credible for project evaluation. This
 
 - **Observation guides:**  
 
-<img src="/assets/blog-2, 3.webp" alt="blog-2" style="width:70%; display:block; margin:auto;" />
+<img src="/assets/blog-2,3.webp" alt="blog-2" style="width:70%; display:block; margin:auto;" />
 <p style="text-align:center;"><em>Source: Taylor-Powell & Steele (1996)</em></p>
 
 - **Recording Sheets and Checklists:**  
 
-<img src="/assets/blog-2, 4.webp" alt="blog-2" style="width:70%; display:block; margin:auto;" />
+<img src="/assets/blog-2,4.webp" alt="blog-2" style="width:70%; display:block; margin:auto;" />
 <p style="text-align:center;"><em>Source: Worden (1987)</em></p>
 
 - **Field Notes:**  
 
-<img src="/assets/blog-2, 5.webp" alt="blog-2" style="width:70%; display:block; margin:auto;" />
+<img src="/assets/blog-2,5.webp" alt="blog-2" style="width:70%; display:block; margin:auto;" />
 <p style="text-align:center;"><em>Source: Taylor-Powell & Steele (1996)</em></p>
 
 <hr class="section-divider">

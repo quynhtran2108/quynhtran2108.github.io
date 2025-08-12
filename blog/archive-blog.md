@@ -5,7 +5,7 @@ title: Blog Archive
 <section id="archive-blogs" class="section">
   <h2>Archived Blog Posts</h2>
   <div class="blog-list">
-  <a href="/#blogs" style="color: var(--accentColor); font-weight: 500; text-decoration: underline; display: block; margin-top: 1rem;">&larr; Back to blogs</a>
+  <a href="../../#blogs" style="color: var(--accentColor); font-weight: 500; text-decoration: underline; display: block; margin-top: 1rem;">&larr; Back to blogs</a>
     {% assign sortedBlogs = collections.blog | reverse %}
     {% assign oldBlogs = sortedBlogs | slice: 4, sortedBlogs.size %}
     {% for post in oldBlogs %}

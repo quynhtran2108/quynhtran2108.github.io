@@ -56,11 +56,11 @@ We are living in the fast-paced era: Where we can see clearly the changing of th
 
 To started, I determine the success metric for the project:
 
-<img src="/assets/commu-success metric.avif" alt="data raw" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/commu-success-metric.avif" alt="data raw" style="width:100%; display:block; margin:auto;" />
 
 Studying and analysing the external environment helps to understand the environmental influences on an entity and guides me in strategic decision-making for the mentorship concept.
 
-<img src="/assets/commu-external environment.avif" alt="data raw" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/commu-external-environment.avif" alt="data raw" style="width:100%; display:block; margin:auto;" />
 
 ### Business Perspective Challenges
 
@@ -69,7 +69,7 @@ Commu doesn't have an existing mentoring system. They want to have the develop a
 #### Competitor analysis:
 I started the market analysis with research about competitors. With insights provided by the stakeholder, Commu app, I analyse the competitor & identify the gaps and opportunities for improvement. There are two competitors that I examined, namely Prönö & ADP List. The findings are as follows:
 
-<img src="/assets/commu-competitor analysis.avif" alt="data raw" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/commu-competitor-analysis.avif" alt="data raw" style="width:100%; display:block; margin:auto;" />
 
 ### Customer Perspective
 
@@ -78,7 +78,7 @@ To better understand the user's need about the platform, I conduct the interview
 #### Survey results:
 The surveys were sent to former mentees and mentors, specifically targetingindividuals known to the team members. As a result, we received responses fromthree mentees and three mentors. The answers provided in the survey haveprovided us with valuable insights and identified common problems in the currentmentoring systems. By analyzing these answers, we aim to develop solutions to address these issues
 
-<img src="/assets/commu-survey results.avif" alt="data raw" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/commu-survey-results.avif" alt="data raw" style="width:100%; display:block; margin:auto;" />
 
 **Key finding:**  
 Long-term and short-term unemployed individuals are the main target group, with a need for initial guidance and structured support.
@@ -114,12 +114,12 @@ The stakeholder analysis encompasses multiple entities, including the public, pr
 
 The mentorship process *starts when people have the purpose and motivation to learn and desire succeed and finishes when the mentee has successfully achieved their goals with the help of the mentor*
 
-<img src="/assets/commu-mentorship concept.avif" alt="data raw" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/commu-mentorship-concept.avif" alt="data raw" style="width:100%; display:block; margin:auto;" />
 
 ### Mentoring as a system
 Mentoring can manifest in different forms; several successful models exist, such as formal mentoring that sets specific goals, formless mentoring that focuses on time-specific topics, and peer mentoring where there is no hierarchy between mentors and mentees, enabling inspiration and specific support. According to that, I developed the parameter models that can contribute to successful mentoring in general.
 
-<img src="/assets/commu-mentoring system.avif" alt="data raw" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/commu-mentoring-system.avif" alt="data raw" style="width:100%; display:block; margin:auto;" />
 
 <hr class="section-divider">
 
@@ -128,7 +128,7 @@ Mentoring can manifest in different forms; several successful models exist, such
 
 Meet the potential user, Mr Ville
 
-<img src="/assets/commu- potential user.avif" alt="data raw" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/commu-potential-user.avif" alt="data raw" style="width:100%; display:block; margin:auto;" />
 
 ### Come up with the initial MVP:
 An important note is to ensure that the platform does not overwhelm users. so that, minimizing excessive information requirements and streamlining the user experience to provide a seamless and user-friendly platform.

@@ -14,13 +14,13 @@ summary: "I’ve been admitted for the Master of Computing Science, Human-Techno
 
 <hr class="section-divider">
 
-![My scholarship offer letter.](/assets/blog-6,%201.webp)
+![My scholarship offer letter.](/assets/blog-6,1.webp)
 
 **About the university:**  
 Tampere University is the third largest and one of the most multidisciplinary universities in Finland. The university placed 34th and the top 250–300th world university in the recently announced Times Higher Education Young University Rankings for 2022.
 
 **The university ranking facts:**  
-[Resources: Times Higher Education](/assets/blog-6,%202.webp)
+[Resources: Times Higher Education](/assets/blog-6,2.webp)
 
 To get to know about my background, I graduated from a Finnish university of applied sciences with a bachelor’s degree in hospitality management. At the time I applied for the master’s degree, I didn’t have any prior work experience in user experience design or a related bachelor’s degree. But, in some way, I attempted to connect my background to the human-computer interaction field as much as feasible and demonstrate my knowledge in HCI. These are 5 steps that I have done to prepare for my application to the HCI master’s degree.
 
@@ -48,7 +48,7 @@ As a result, strive to record as many significant points between your background
 
 <hr class="section-divider">
 
-![Photo by Andy Kelly on Unsplash](/assets/blog-6,%203.webp)
+![Photo by Andy Kelly on Unsplash](/assets/blog-6,3.webp)
 
 
 ## 4. Polish your portfolio even if it is not required
@@ -63,4 +63,4 @@ You’ve demonstrated certain abilities, goals, and a personal story that brough
 
 The most important thing to remember is to be yourself. You can’t impress someone with someone else’s tale; you can only wow them with your own story, your own style, and that makes you stand out among thousands of other candidates. Make an impression on them with your story, your profile, and your experiences, and you may be able to get accepted to your desired university without many prior experience years.
 
-<a href="/#blogs" style="color: var(--accentColor); font-weight: 500; text-decoration: underline; display: block; margin-top: 1rem;">&larr; Back to blogs</a>
+<a href="../../#blogs" style="color: var(--accentColor); font-weight: 500; text-decoration: underline; display: block; margin-top: 1rem;">&larr; Back to blogs</a>

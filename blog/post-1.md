@@ -22,8 +22,7 @@ The ISO defined the UX as <em> a person’s perceptions and responses that resul
 In simple terms, Hassenzahl defined a user experience model as the combination of product features chosen by the designer to convey the intended product characteristics, which lead to certain emotional experience consequences.
 </p>
 
-<img src="/assets/blog-1, figure-1.webp" alt="Hassenzahl’s UX Model sketched by me" style="width:80%; display:block; margin:auto;" />
-<p style="text-align:center;"><em>Figure 1: Hassenzahl’s UX Model sketched by me</em></p>
+<img src="/assets/blog-1,figure-1.webp" alt="Hassenzahl’s UX Model sketched by me" style="width:80%; display:block; margin:auto;" />
 
 <p>
 The design success is measured based on how well these new feature characteristics meet the user’s needs, as well as the emotional and experiential aspects of the interaction.
@@ -63,7 +62,7 @@ In the own words, Experience-Driven Design (EDD) recognizes that:
 The experience is subjective and can change depending on the context and the user’s emotions. Instead of designing the experience based on user feedback, the designer designs with the experience goal in mind.
 </blockquote>
 
-<img src="/assets/blog-1, figure-2.webp" alt="Experience-Driven Design illustration" style="width:80%; display:block; margin:auto;" />
+<img src="/assets/blog-1,figure-2.webp" alt="Experience-Driven Design illustration" style="width:80%; display:block; margin:auto;" />
 
 <p>
 The design success is measured based on how well these experience goals are met when users interact with it. The process begins by identifying the kind of experience the designer wants users to have, referred to as the user experience goal. Conducting user research is crucial in this step. Then, the designer creates the design with the aim of making the desired experience happen. After designing, the product is tested among users, and it is important to pay attention to how users physically interact, think, and feel during, before, and after using it.
@@ -82,4 +81,4 @@ In summary, these two UX models can be seen as useful frameworks that guide UX D
 1. Hassenzahl, M (2018). Chapter 19: The Thing and I: Understanding the Relationship Between User and Product.
 2. Hassenzahl & Tractinsky (2006). User Experience — a Research Agenda. Behaviour and Information Technology, Vol. 25, №2
 
-<a href="/#blogs" style="color: var(--accentColor); font-weight: 500; text-decoration: underline; display: block; margin-top: 1rem;">&larr; Back to blogs</a>
+<a href="../../#blogs" style="color: var(--accentColor); font-weight: 500; text-decoration: underline; display: block; margin-top: 1rem;">&larr; Back to blogs</a>

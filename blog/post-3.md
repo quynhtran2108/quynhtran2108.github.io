@@ -14,7 +14,7 @@ summary: "Storyboarding is an essential step of a design project. However, many 
 
 >Storyboarding is an essential step of a design project. However, many freshers found it challenging from time to time. Thus, if you’re curious about how to overcome, this article is for you.
 
-![Photo by Andrew Neel on Unsplash](/assets/blog-5,%201.webp)
+![Photo by Andrew Neel on Unsplash](/assets/blog-5,1.webp)
 
 <hr class="section-divider">
 
@@ -35,7 +35,7 @@ Storyboarding is separated into frames because it is a technique for visualising
 
 <hr class="section-divider">
 
-![Photo by AbsolutVision on Unsplash](/assets/blog-5,%202.webp)
+![Photo by AbsolutVision on Unsplash](/assets/blog-5,2.webp)
 
 The scenario of storyboarding should be short that helps understand the user and the problem we’re solving. By detailing how the user interacts with the product, the captions integrate the visuals and context. It’s essentially the prose that describes each scene in the story.
 
@@ -47,7 +47,7 @@ Regardless of Sarah Ribbons, a journey map visual represents a person’s steps 
 
 <hr class="section-divider">
 
-![Storyboarding by Author](/assets/blog-5,%203.webp)
+![Storyboarding by Author](/assets/blog-5,3.webp)
 
 For example, Teija is a teacher who wants to grab a cup of coffee in a hurry and set the table seat beforehand because she is always in a rush and has a tight schedule for a lunch break. In the first frame, Teija is frustrated at the coffee store because the queue is so long, and she is primarily late from work. In the second frame, the staff introduces a new platform, which helps customers and staff members to save time. Teija and other customers look surprised, but they all seem interested in the new app. The next frame seems most customers use the new app instead of waiting in a long line. Besides ordering the food & drink, the app also lets users choose their exciting corner. They found the app extremely handy in the last frame that they don’t need to wait in queue anymore.
 
@@ -61,7 +61,7 @@ Meanwhile, storyboarding depicts the emotional engagement that a user will have 
 
 <hr class="section-divider">
 
-![Close-up Storyboarding by Author](/assets/blog-5,%204.webp)
+![Close-up Storyboarding by Author](/assets/blog-5,4.webp)
 
 If you’re still at an early design project stage, you might want to present your high-level concepts to stakeholders to get them excited and onboard. As a UX designer, it’s ideal to bring both storyboards together to have a flexible and creative approach to explaining your ideas. Additionally, the close-up storyboard is more beneficial after you’ve explored your initial design guidance. Thus, it seems unnecessary but very helpful because later on, close-up storyboard sketching could be utilised to draw the digital wireframes.
 

@@ -39,15 +39,15 @@ Docshunter is a website that allows users to search through thousands of documen
 
 ### Working process
 
-<img src="/assets/docshunter-design process.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-designprocess.avif" style="width:100%; display:block; margin:auto;" />
 
 ## Discover
 
-<img src="/assets/docshunter-the problem.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-theproblem.avif" style="width:100%; display:block; margin:auto;" />
 
 To get started, I had the kick-off meeting with the team, including the project manager & developers, to get to know about the current situation of the product and collect the user feedback. According to the meeting brief, there are some highlighted requirements that need to be focused on to update the application in the next launch.
 
-<img src="/assets/docshunter-the problem insights.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-theprobleminsights.avif" style="width:100%; display:block; margin:auto;" />
 
 ### GOALS:
 
@@ -63,9 +63,9 @@ To get started, I had the kick-off meeting with the team, including the project 
 
 Based on the visual & interaction perspectives, I identify a number of critical issues that Docshunter currently has.
 
-<img src="/assets/docshunter- visual define.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-visualdefine.avif" style="width:100%; display:block; margin:auto;" />
 
-<img src="/assets/docshunter- define summary.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-definesummary.avif" style="width:100%; display:block; margin:auto;" />
 
 <hr class="section-divider">
 
@@ -73,13 +73,13 @@ Based on the visual & interaction perspectives, I identify a number of critical 
 
 The time is limited and we cannot resolve all the user feedbacks in a certain of time. Therefore, I need to priority the user needs and pain points. I utilise the **MOSCOW framework** to categories them into the one roadmap. 
 
-<img src="/assets/docshunter- MOSCOW framwork.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-MOSCOWframwork.avif" style="width:100%; display:block; margin:auto;" />
 
 I conducted collaborative sessions with the product manager and other team members to finalise the user flow & change proposals. We focused on mapping out the user flow to ensure the solution aligns cohesively with the searching tool. As a result, I created a search document flow for the user persona: Jilson.
 
-<img src="/assets/docshunter- user persona.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-userpersona.avif" style="width:100%; display:block; margin:auto;" />
 
-<img src="/assets/docshunter- userflow.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-userflow.avif" style="width:100%; display:block; margin:auto;" />
 
 <hr class="section-divider">
 
@@ -89,13 +89,13 @@ The prototype is created using the available design system. I also enriched the 
 
 Though more elements are developed and some small design changes are made, the design concept is still based on the brand identity & design system to keep the consistency of the product. The new version has received many positive feedback and is really generating an increasing number of users.
 
-<img src="/assets/docshunter- design system.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-designsystem.avif" style="width:100%; display:block; margin:auto;" />
 
-<img src="/assets/docshunter- landing page.gif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-landingpage.gif" style="width:100%; display:block; margin:auto;" />
 
-<img src="/assets/docshunter - result page.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-resultpage.avif" style="width:100%; display:block; margin:auto;" />
 
-<img src="/assets/docshunter- categories function.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-categoriesfunction.avif" style="width:100%; display:block; margin:auto;" />
 
 ### Mobile Design & A/B Testing
 
@@ -103,7 +103,7 @@ Though more elements are developed and some small design changes are made, the d
 
 I had a small workshop to conduct the A/B testing and present two designs that I made for the mobile application in order to identify which options that is more feasible in the perspective of the whole team.
 
-<img src="/assets/docshunter- a:b testing.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-a:btesting.avif" style="width:100%; display:block; margin:auto;" />
 
 After the discussing with the product manager & development team, we decided to go with the option A because of several reasons:
 
@@ -111,9 +111,9 @@ After the discussing with the product manager & development team, we decided to 
 
 2. There are also limited spaces for the long keywords that makes the screen B limited the word counting appeared on the screen
 
-<img src="/assets/docshunter - result page.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-resultpage.avif" style="width:100%; display:block; margin:auto;" />
 
-<img src="/assets/docshunter- deading experience.gif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-deadingexperience.gif" style="width:100%; display:block; margin:auto;" />
 
 <hr class="section-divider">
 
@@ -128,13 +128,13 @@ In this project, creating wireframes encouraged me to think about what component
 
 ### Other References
 
-<img src="/assets/docshunter other 1.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-other1.avif" style="width:100%; display:block; margin:auto;" />
 
-<img src="/assets/docshunter other 2.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-other2.avif" style="width:100%; display:block; margin:auto;" />
 
-<img src="/assets/docshunter other 3.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-other3.avif" style="width:100%; display:block; margin:auto;" />
 
-<img src="/assets/docshunter other 4.avif" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/docshunter-other4.avif" style="width:100%; display:block; margin:auto;" />
 
 <hr class="section-divider">
 

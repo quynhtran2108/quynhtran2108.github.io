@@ -124,7 +124,7 @@ The scorecard is developed based on the project's requirements and objectives, a
 
 I firstly **conduct the internal usability testing** with the view to observing the efficiency of new functions.
 
-<img src="/assets/writerzen-usability criteria.avif" alt="Writerzen App Screenshot" style="max-width:600px;width:100%;margin-bottom:2rem;">
+<img src="/assets/writerzen-usabilitycriteria.avif" alt="Writerzen App Screenshot" style="max-width:600px;width:100%;margin-bottom:2rem;">
 
 <img src="/assets/writerzen-testing.avif" alt="Writerzen App Screenshot" style="max-width:600px;width:100%;margin-bottom:2rem;">
 

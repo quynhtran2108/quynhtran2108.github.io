@@ -20,7 +20,7 @@ Vapriikki Museo
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Q0Msj6HUEjI" title="YouTube video player" frameborder="0" allowfullscreen style="max-width:100%;"></iframe>
 </div>
 
-<img src="/assets/museum- ar.gif" alt="conversational design" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/museum-ar.gif" alt="conversational design" style="width:100%; display:block; margin:auto;" />
 <p style="text-align:center;"><em>Figure: AR showcase</em></p>
 
 ## Summary
@@ -40,14 +40,14 @@ We are happy that the Vapriikki Museo  continue want us to develop further the p
 <hr class="section-divider">
 
 ## References
-<img src="/assets/museum- interface.webp" alt="conversational design" style="width:70%; display:block; margin:auto;" />
+<img src="/assets/museum-interface.webp" alt="conversational design" style="width:70%; display:block; margin:auto;" />
 <p style="text-align:center;"><em>Figure: Interface of the mobile app</em></p>
 
-<img src="/assets/museum- survey.webp" alt="conversational design" style="width:70%; display:block; margin:auto;" />
-<img src="/assets/museum- survey.webp" alt="conversational design" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/museum-survey.webp" alt="conversational design" style="width:70%; display:block; margin:auto;" />
+<img src="/assets/museum-survey.webp" alt="conversational design" style="width:100%; display:block; margin:auto;" />
 <p style="text-align:center;"><em>Figure: Online survey publised at Vappirikki Museum social media (in English and Finnish)</em></p>
 
-<img src="/assets/museum- powerbi.webp" alt="powerBI" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/museum-powerbi.webp" alt="powerBI" style="width:100%; display:block; margin:auto;" />
 <p style="text-align:center;"><em>Figure: PowerBI data visualization</em></p>
 
 <hr class="section-divider">
