@@ -1,0 +1,85 @@
+---
+layout: post-layout.njk
+title: "Don’t stick with only the User-centre Design process, these two UX models will blow your mind"
+date: 2021-08-11
+tags: blog
+summary: "As UX Designers, we’re all familiar with the well-known design term “User-centered design,” (UCD) yet the scope of User Experience (UX) extends far beyond that..."
+---
+
+<h1>Don’t stick with only the User-centre Design process, these two UX models will blow your mind</h1>
+
+*Quynh Tran · 4 min read · Aug 11, 2021*
+
+>We are designing products for end-users with user preferences as the center of our design, yes, that’s true. But what if the users themselves are not aware of or don’t know what they want and need from the product we design for them? In that case, let’s play a different game; let’s be the ones to decide the emotional journey and product features that we want users to experience.
+
+
+## Hassenzahl's UX Model — same same but DIFFERENT (compared with UCD)
+
+<p>
+The ISO defined the UX as <em> a person’s perceptions and responses that result from the use or anticipated use of a product, system or service </em> Hassenzahl (2018) introduced the same model. HOWEVER, from the two perspectives of user experience: <strong>designer and user</strong>.
+</p>
+<p>
+In simple terms, Hassenzahl defined a user experience model as the combination of product features chosen by the designer to convey the intended product characteristics, which lead to certain emotional experience consequences.
+</p>
+
+<img src="/assets/blog-1, figure-1.webp" alt="Hassenzahl’s UX Model sketched by me" style="width:80%; display:block; margin:auto;" />
+<p style="text-align:center;"><em>Figure 1: Hassenzahl’s UX Model sketched by me</em></p>
+
+<p>
+The design success is measured based on how well these new feature characteristics meet the user’s needs, as well as the emotional and experiential aspects of the interaction.
+</p>
+
+<p>
+Since this UX model is NOT purely based on user research from the beginning, the question arises:
+</p>
+
+<blockquote>
+How does the designer know exactly what factors affect the end-user experience to come up with the efficient product character?
+</blockquote>
+
+<p>
+Hassenzahl & Tractinsky (2006) claim that three main components contribute to influential factors: the user’s internal state, context (environment), and the system.
+</p>
+
+<p>
+For instance, an elderly retiree, who enjoys reading books, will have different expectations and experiences when using TikTok compared to a young woman from Generation Z. This leads to different reactions and experiences with the TikTok platform. Understanding the user’s preferences, TikTok’s UX team can identify which features and characteristics to adapt for the young generation, who are their target audience.
+</p>
+
+<p>
+Users will also react differently and be affected by environmental surroundings. These reactions can depend on work culture, politics, rules, habits, and other physical contexts such as weather, season, or location. For example, McDonald’s is the most popular fast-food chain in the world, but this brand barely captures the attention of people in my country, Vietnam. This is because Vietnamese people can easily find numerous street vendors selling much cheaper and delicious food compared to hamburgers at McDonald’s, whose prices are more suitable for people from the middle class.
+</p>
+
+<p>
+In short, since Hassenzahl’s UX Model was built from both designers’ and users’ perspectives, it brings holistic points of view into products, as all product features serve their own purposes when brought to the screen. However, when implementing Hassenzahl’s UX Model, considering numerous influential factors is crucial for designing a product inclusively and making it usable for a large group of people.
+</p>
+
+## Experience-Driven Design (EDD): Where the user experience is set before any interactions
+
+<p>
+In the own words, Experience-Driven Design (EDD) recognizes that:
+</p>
+
+<blockquote>
+The experience is subjective and can change depending on the context and the user’s emotions. Instead of designing the experience based on user feedback, the designer designs with the experience goal in mind.
+</blockquote>
+
+<img src="/assets/blog-1, figure-2.webp" alt="Experience-Driven Design illustration" style="width:80%; display:block; margin:auto;" />
+
+<p>
+The design success is measured based on how well these experience goals are met when users interact with it. The process begins by identifying the kind of experience the designer wants users to have, referred to as the user experience goal. Conducting user research is crucial in this step. Then, the designer creates the design with the aim of making the desired experience happen. After designing, the product is tested among users, and it is important to pay attention to how users physically interact, think, and feel during, before, and after using it.
+</p>
+<p>
+Different from UCD, EDD focuses much more on emotional experience, emotional design, and aims to create meaningful experiences through the device. Meanwhile, UCD might focus more on the practical usability and efficiency of the device or product. After receiving user feedback, UCD actively involves user feedback in the design process, rather than the EDD itself.
+</p>
+
+## Summary
+
+<p>
+In summary, these two UX models can be seen as useful frameworks that guide UX Designers to explore how design choices could impact user experience generally and to make design decisions efficiently within a team. These UX Models are especially beneficial for enterprises with small budgets for comprehensive user research. With them, we can still create products that are meaningful and adapt to end-users’ preferences in the end.
+</p>
+
+## References
+1. Hassenzahl, M (2018). Chapter 19: The Thing and I: Understanding the Relationship Between User and Product.
+2. Hassenzahl & Tractinsky (2006). User Experience — a Research Agenda. Behaviour and Information Technology, Vol. 25, №2
+
+<a href="/#blogs" style="color: var(--accentColor); font-weight: 500; text-decoration: underline; display: block; margin-top: 1rem;">&larr; Back to blogs</a>

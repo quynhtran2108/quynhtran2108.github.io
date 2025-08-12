@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title></title>
+  <link rel="stylesheet" href="/style.css" />
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+  <button class="hamburger" aria-label="Open menu">
+    <span></span>
+    <span></span>
+    <span></span>
+  </button>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="identity">
+        <img src="/assets/logo.png" alt="Logo" class="logo" style="width:60px; height:60px; vertical-align:middle; margin-right:8px;">
+        <h1 class="name">Quynh Tran</h1>
+        <p class="subheading">UX Designer & inspired PhD candidate</p>
+      </div>
+      <nav class="nav">
+        <a href="#home" class="nav-link" data-section="home">HOME</a>
+        <a href="#about" class="nav-link" data-section="about">ABOUT</a>
+        <a href="#portfolio" class="nav-link" data-section="portfolio">PORTFOLIO</a>
+        <a href="#cv" class="nav-link" data-section="cv">CV</a>
+        <a href="#blogs" class="nav-link" data-section="blogs">BLOGS</a>    
+      </nav>
+      <div class="social-icons">
+        <a href="https://www.linkedin.com/in/quynhtran1999/" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+        <a href="https://scholar.google.com/citations?user=your-scholar-id" target="_blank" aria-label="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
+        <a href="https://medium.com/@tran.quynh" target="_blank" aria-label="Medium"><i class="fab fa-medium"></i></a>
+        <a href="https://github.com/quynhtran2108" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
+      </div>
+    </aside>
+    <!-- Move overlay here, outside sidebar -->
+    <div class="sidebar-overlay"></div>
+    <main class="content">
+      
+<section id="home" class="section active">
+  <h1 class="name"><span>Hey, this is Quynh</span></h1>
+  <h2>
+    A <span class="highlight">UX designer</span> and inspired 
+    <span class="highlight">PhD candidate</span>.
+  </h2>
+  <div class="avatar">
+    <img src="assets/Quynh-thumbnails.JPEG" alt="Quynh Tran avatar" class="profile-image active"/>
+  </div>
+  <h3>Thanks for stopping by!</h3>
+  <p>
+    Graduated with the MSc at Computer Sciences, Human-Technology Interaction (HCI) at
+    <a href="https://www.tuni.fi/en" target="_blank" rel="noopener" style="color: rgb(111, 111, 111);">Tampere University.</a>
+  </p>
+  <p>
+    I'm passionate about leveraging <em>technology and human-centered approaches</em> to drive impactful solutions and inspired to craft meaningful <em>user-centric</em> solutions that resolve the user's pain points.
+  </p>
+  <p>
+    <br>
+    My interests include <em>human-centered AI, well-being, and education.</em> 
+  <p>With the expertise in HCI, my focus has evolved toward user-driven approaches that explore how design research impacts society, enhances user experiences, and informs the design process. Whether it's uncovering deep user insights or translating them into intuitive experiences, I bring curiosity, empathy, and collaboration to every project.</p>
+<br>
+  <p>Long-term, I aim to pursue a PhD to deepen this work and contribute to the future of learning, design, and inclusive tech.</p>
+  <p>
+    <br>
+    <a href="mailto:quynhtran.kath@gmail.com" class="get-in-touch" style="color: var(--accentColor); font-weight: 600; text-decoration: underline;">Get in touch</a>
+  </p>
+  <div style="height: 2rem;"></div>
+
+  <hr class="section-divider">
+
+<h2>My expertise</h2>
+<div class="expertise-grid">
+  <!-- UX Research -->
+  <div class="expertise-col">
+    <div class="expertise-logo">
+      <i class="fa-regular fa-bookmark" style="font-size: 2rem; color: var(--accentColor);"></i>
+      <div class="logo-label">UX Research:</div>
+    </div>
+    <div class="expertise-list">
+      <div>User Research</div>
+      <div>Group Facilitation</div>
+      <div>User Interview</div>
+      <div>Persona Creation</div>
+      <div>Usability Testing</div>
+      <div>A/B Testing</div>
+    </div>
+  </div>
+  <!-- UI/UX Design -->
+  <div class="expertise-col">
+    <div class="expertise-logo">
+      <i class="fas fa-pen-nib" style="font-size: 2rem; color: var(--accentColor);"></i>
+      <div class="logo-label">UI / Visual Design:</div>
+    </div>
+    <div class="expertise-list">
+      <div>Wireframing</div>
+      <div>Prototyping</div>
+      <div>Design System</div>
+      <div>Accessibility Design</div>
+      <div>Graphic Design</div>
+      <div>Illustration</div>
+    </div>
+  </div>
+  <!-- AI & Tech -->
+  <div class="expertise-col">
+    <div class="expertise-logo">
+      <i class="fas fa-robot" style="font-size: 2rem; color: var(--accentColor);"></i>
+      <div class="logo-label">AI & Tech:</div>
+    </div>
+    <div class="expertise-list">
+      <div>Front-end Development</div>
+      <div>Human-AI Interaction</div>
+      <div>Chatbot Design</div>
+      <div>AI Ethics</div>
+      <div>Data Analysis</div>
+    </div>
+  </div>
+  <!-- Research -->
+  <div class="expertise-col">
+    <div class="expertise-logo">
+      <i class="fas fa-book" style="font-size: 2rem; color: var(--accentColor);"></i>
+      <div class="logo-label">Research:</div>
+    </div>
+    <div class="expertise-list">
+      <div>Literature Review</div>
+      <div>Survey Design</div>
+      <div>Statistical Analysis</div>
+      <div>Academic Writing</div>
+      <div>Data Visualization</div>
+    </div>
+  </div>
+</div>
+
+<hr class="section-divider">
+
+<h2>Toolbox</h2>
+<div class="toolbox-grid">
+  <!-- Design Tools Column -->
+  <div class="toolbox-col">
+    <div class="toolbox-label">Design</div>
+    <ul class="tool-list">
+      <li><i class="fab fa-figma"></i> Figma</li>
+      <li><i class="fas fa-pen-nib"></i> Adobe Illustration</li>
+      <li><i class="fas fa-image"></i> Adobe Photoshop</li>
+      <li><i class="fas fa-vector-square"></i> Adobe XD</li>
+      <li><i class="fas fa-paint-brush"></i> Canva</li>
+      <li><i class="fas fa-project-diagram"></i> Balsamiq</li>
+      <li><i class="fab fa-sketch"></i> Sketch</li>
+      <li><i class="fas fa-globe"></i> Webflow</li>
+      <li><i class="fab fa-wordpress"></i> Wordpress</li>
+    </ul>
+  </div>
+  <!-- Programming Tools Column -->
+  <div class="toolbox-col">
+    <div class="toolbox-label">Programming</div>
+    <ul class="tool-list">
+      <li><i class="fab fa-html5"></i> HTML</li>
+      <li><i class="fab fa-css3-alt"></i> CSS</li>
+      <li><i class="fab fa-js-square"></i> JavaScript</li>
+      <li><i class="fas fa-database"></i> SQL</li>
+    </ul>
+  </div>
+  <!-- Research Tools Column -->
+  <div class="toolbox-col">
+    <div class="toolbox-label">Research</div>
+    <ul class="tool-list">
+      <li><i class="fas fa-chart-bar"></i> SPSS Statistics</li>
+      <li><i class="fas fa-chalkboard"></i> Miro</li>
+      <li><i class="fas fa-chart-pie"></i> Tableau</li>
+      <li><i class="fas fa-users"></i> Teams</li>
+      <li><i class="fas fa-file-powerpoint"></i> Powerpoint</li>
+      <li><i class="fas fa-file-excel"></i> Excels</li>
+      <li><i class="fas fa-envelope"></i> Outlooks</li>
+      <li><i class="fas fa-file-alt"></i> Docs</li>
+    </ul>
+  </div>
+  <!-- Other Tools Column -->
+  <div class="toolbox-col">
+    <div class="toolbox-label">Other</div>
+    <ul class="tool-list">
+      <li><i class="fab fa-slack"></i> Slack</li>
+      <li><i class="fab fa-jira"></i> Jira</li>
+      <li><i class="fas fa-book"></i> Notion</li>
+      <li><i class="fas fa-random"></i> Zapier</li>
+      <li><i class="fas fa-robot"></i> Copilot</li>
+      <li><i class="fas fa-microphone"></i> Voiceflow</li>
+    </ul>
+  </div>
+</div>
+
+<hr class="section-divider">
+
+<h2>Testimonials</h2>
+<div class="testimonials-grid">
+  <!-- Testimonial 1 -->
+  <div class="testimonial-card">
+    <p class="testimonial-text">
+      “Quynh proved to be an active and motivated person and completed her tasks in excellent manner and always in good time. She communicated in professional manner and did not hesitate to contact me in a case of further questions. With this experience, I can warmly recommend her for any academic, teaching related tasks in the future.”
+    </p>
+    <div class="testimonial-author">
+      <strong>Jari Varsaluoma</strong><br>
+      <span>Lecturer at Tampere University</span>
+    </div>
+  </div>
+  <!-- Testimonial 2 -->
+  <div class="testimonial-card">
+    <p class="testimonial-text">
+      “We have had the opportunity to collaborate on multiple projects and participate in two successful hackathons. Quynh has put in tremendous effort in designing and researching processes, which has resulted in a deep understanding of the challenges and the ability to provide accurate solutions. As a result, we were able to win in both competitions.”
+    </p>
+    <div class="testimonial-author">
+      <strong>Ariel Malada</strong><br>
+      <span>Software Developer at Alma Media</span>
+    </div>
+  </div>
+  <!-- Testimonial 3 -->
+  <div class="testimonial-card">
+    <p class="testimonial-text">
+      “She's a hidden gem, like a potent seed in the soil. With good awareness, and hungry to solve problems, all she needs is a good environment and pressure to grow up. Besides that, she has a good knowledge of UX, and it's also the career path she's following.”
+    </p>
+    <div class="testimonial-author">
+      <strong>Nguyen Nguyen</strong><br>
+      <span>Head of Design at Writerzen</span>
+    </div>
+  </div>
+</div>
+
+</section>
+
+
+<section id="about" class="section about-section">
+  <h2>About me</h2>
+  <div class="about-content">
+    <div class="about-image">
+      <img src="/assets/About, near-desktop.jpg" alt="Me and my older brother next to the computer table" />
+      <p class="about-caption"><em>Me and my older brother next to the computer table</em></p>
+    </div>
+    <div class="about-text">
+      <p>
+        I was born in Hoi An, Da Nang, a central beach city of Vietnam. Back then, Vietnam was still a very poor country, 
+        and my family’s life reflected that reality. We lived in a tiny, bare house. 
+        Yet, in that simple home, there was one treasure: A computer my father bought for work.
+      </p>
+      <br>
+      <p>To me and my older brother, it was a window to the outside world. That computer became our playground, library and source 
+        of endless curiosity.</p>
+      <br>
+      <p>
+        Time has flown faster than I could have imagined. Technology has transformed the world, and now AI is growing smarter every day. 
+        Sometimes, I look around and can hardly believe I am living in an era my younger self would never have dreamed possible.
+      </p>
+    </div>
+  </div>
+    <br>
+      <p>
+Over time, I have come to appreciate learning not just for personal growth but as a powerful tool to benefit others. This passion drives me 
+to explore inclusive education and the intersection of technology and social good — using design and innovation to turn knowledge into 
+meaningful, positive impact.  
+    </p>
+  <blockquote class="about-quote">
+    Education is the key to unlocking the world, a passport to freedom.
+    <br>
+    <span>– Oprah Winfrey</span>
+  </blockquote>
+ <br>
+  <p> Outside the work, I'm a part-time entrepreneur when I craft handmade things for selling in the market, devoted in sustainability and secondhand fashion. 
+    A day-dreamer and sometimes, a amateur photographer. I love to travel, explore new cultures, and capture the beauty of life through my lens.
+  </p>
+  <div class="about-image">
+      <img src="/assets/about- quynh_1.png" alt="Me in a market hall convention in Finland" />
+      <p class="about-caption"><em>Me selling in a market hall convention in Finland</em></p>
+    </div>
+
+<div class="about-gallery">
+  <div class="about-gallery-item">
+    <img src="/assets/about- photography1.jpg" alt="Sunset on the beach" />
+    <p class="about-caption"><em>Sunset on the beach, credit: Quynh Tran</em></p>
+  </div>
+  <div class="about-gallery-item">
+    <img src="/assets/about- phtography2.jpg" alt="Aurora night" />
+    <p class="about-caption"><em>Aurora night, credit: Quynh Tran</em></p>
+  </div>
+  <div class="about-gallery-item">
+    <img src="/assets/about- phtography3.jpg" alt="Bird returning the nest" />
+    <p class="about-caption"><em>Bird returning the nest, credit: Quynh Tran</em></p>
+  </div>
+  <div class="about-gallery-item">
+    <img src="/assets/about- photography4.jpeg" alt="Berlin day" />
+    <p class="about-caption"><em>Berlin day, credit: Quynh Tran</em></p>
+  </div>
+</div>
+
+</section>
+
+
+
+<section id="portfolio" class="section">
+  <h2>A selection of projects</h2>
+  <div class="portfolio-categories">
+    <button class="category-btn active" data-category="all">All</button>
+    <button class="category-btn" data-category="uiux">UI/UX</button>
+    <button class="category-btn" data-category="ai">AI</button>
+    <button class="category-btn" data-category="research">Research</button>
+    <button class="category-btn" data-category="data">Data Visualization</button>
+
+  </div>
+  <div class="portfolio-list">
+    <!-- Portfolio Card  -->
+    <div class="portfolio-card" data-category="ai">
+      <div class="portfolio-image">
+        <img src="assets/thumbnails.webp" alt="AI Project">
+        <span class="search-icon">&#128269;</span>
+      </div>
+      <a href="/portfolio/chatbot/" class="portfolio-title">Graduation thesis: Building the design system AI chatbot</a>
+      <p class="portfolio-desc">Building a chatbot integrated GPT.Turbo 3.5 to understand about how chatbots should interact with employees to be trusted, helpful, and usable...</p>
+    </div>
+    <!-- Portfolio Card  -->
+    <div class="portfolio-card" data-category="research">
+      <div class="portfolio-image">
+        <img src="assets/solita-thumbnails.webp" alt="ai-public-transportation">
+        <span class="search-icon">&#128269;</span>
+      </div>
+      <a href="portfolio/ai-public-transportation/" class="portfolio-title">Future AI assistance mobile app for public transportation</a>
+      <p class="portfolio-desc">TravelBuddy is the innovative project with the purpose to enhance the user experience of the future transportation with the stimulation of AI assistance...</p>
+    </div>
+
+    <!-- Portfolio Card   -->
+    <div class="portfolio-card" data-category="research">
+      <div class="portfolio-image">
+        <img src="assets/remote- thumbnails.png" alt="Remote-driving">
+        <span class="search-icon">&#128269;</span>
+      </div>
+      <a href="portfolio/remote-driving/" class="portfolio-title">Usability testing for remote driving system</a>
+      <p class="portfolio-desc">The testing project for remote driving aid of wheel loaders, motivated by the potential to improve safety in hazardous environments and to support novice drivers...</p>
+    </div>
+
+    <!-- Portfolio Card   -->
+    <div class="portfolio-card" data-category="research">
+      <div class="portfolio-image">
+        <img src="assets/web3- thumbnails.png" alt="Research Project">
+        <span class="search-icon">&#128269;</span>
+      </div>
+      <a href="portfolio/web3hackathon/" class="portfolio-title"> Role-playing game for teen education, metaverse & Web3 hackathon</a>
+      <p class="portfolio-desc">As one of Finland’s leading industrial cities, Tampere wants to explore how the metaverse can be leveraged to transform the way its manufacturing sector attracts, engages,...</p>
+     </div>
+
+
+    <!-- Portfolio Card  -->
+    <div class="portfolio-card" data-category="uiux">
+      <div class="portfolio-image">
+        <img src="assets/writerzen-thumbnails.webp" alt="UI/UX">
+        <span class="search-icon">&#128269;</span>
+      </div>
+      <a href="portfolio/writerzen/" class="portfolio-title">Redesign the onboarding flow and develop the ultimate SEO learning hub</a>
+      <p class="portfolio-desc">Writerzen is the SEO content software. This project aims to improve userflow and enhance engagement by driving better conversion rates...</p>
+    </div>
+
+        <!-- Portfolio Card   -->
+    <div class="portfolio-card" data-category="research">
+      <div class="portfolio-image">
+        <img src="assets/museum- thumbnails.png" alt="Research Project">
+        <span class="search-icon">&#128269;</span>
+      </div>
+      <a href="portfolio/museum/" class="portfolio-title">Preserving personal conversation in friendly and accessible way for the museum</a>
+      <p class="portfolio-desc">Finding a user-friendly & accessible way to collect representative data about personal communication and media history for the new museum...</p>
+     </div>
+
+    <!-- Portfolio Card   -->
+    <div class="portfolio-card" data-category="research">
+      <div class="portfolio-image">
+        <img src="assets/commu-thumbnails.jpg" alt="Research Project">
+        <span class="search-icon">&#128269;</span>
+      </div>
+      <a href="portfolio/commu-app/" class="portfolio-title">Research mentorship growth service for social sustainability platform</a>
+      <p class="portfolio-desc">Collaboration project between start-up Commu App and HUBS, entrepreneurship organization, this research aims to explore the ideal concept of mentorship program...</p>
+    </div>
+
+
+    <!-- Portfolio Card  -->
+    <div class="portfolio-card" data-category="uiux">
+     <div class="portfolio-image">
+     <img src="assets/healer-thumbnails.webp" alt="Healer app">
+     <span class="search-icon">&#128269;</span>
+    </div>
+  <a href="/portfolio/healer/" class="portfolio-title">Case study, mental healthcare mobile app</a>
+  <p class="portfolio-desc">Case study for UX Google Certificate. Healer is a mental health supporting app for people to track mood, keep fit and reduce the sorrow...</p>
+    </div>
+
+
+    <!-- Portfolio Card   -->
+    <div class="portfolio-card" data-category="UI/UX">
+      <div class="portfolio-image">
+        <img src="assets/docshunter-thumbnails.webp" alt="Research Project">
+        <span class="search-icon">&#128269;</span>
+      </div>
+      <a href="portfolio/docshunter/" class="portfolio-title">Redesign the document searching website</a>
+      <p class="portfolio-desc">Docshunter is a website that allows users to search through thousands of documents in various subjects and categories. I led the UX design project, enhanced the design system...</p>
+    </div>
+
+        <!-- Portfolio Card   -->
+    <div class="portfolio-card" data-category="data">
+      <div class="portfolio-image">
+        <img src="assets/data-visualization.gif" alt="Research Project">
+        <span class="search-icon">&#128269;</span>
+      </div>
+      <a href="portfolio/data-visualization/" class="portfolio-title">Data visualization projects collection</a>
+      <p class="portfolio-desc">A collection of various data visualization projects showcasing the impactful and clear presentation of complex information...</p>
+    </div>
+    
+    </div>
+</section>
+ 
+
+<section id="cv" class="section">
+  <h2>Curriculum Vitae</h2>
+  <div class="card">
+    <p>You can download or view my experience below.</p>
+    <a href="assets/Quynh Tran - CV -.pdf" class="read-more" style="color: var(--accentColor); font-weight: 500; text-decoration: underline;">Download CV</a>
+  </div>
+  <div class="cv-grid">
+
+    <!-- Education -->
+    <div class="cv-block">
+      <h3><i class="fas fa-graduation-cap"></i> Education</h3>
+      <div class="cv-item">
+        <strong>Tampere University</strong> — Master of Science, Computing Sciences (Human-Technology Interaction)<br>
+        <span class="cv-meta">Tampere, Finland | Aug 2022 – Dec 2024</span><br>
+        GPA: 4.08/5 (Distinct grades)
+      </div>
+      <div class="cv-item">
+        <strong>Lapland University of Applied Sciences</strong> — Bachelor of Hospitality Management, Tourism<br>
+        <span class="cv-meta">Rovaniemi, Finland | Aug 2018 – Jun 2021</span><br>
+        GPA: 3.67/5
+      </div>
+      <div class="cv-item">
+        <strong>Le Thanh Tong High School for Gifted</strong> — High School Diploma<br>
+        <span class="cv-meta">Quang Nam, Vietnam | Sep 2014 – May 2017</span>
+      </div>
+    </div>
+
+  <hr class="section-divider">
+
+   <!-- Experience -->
+<div class="cv-block">
+  <h3><i class="fas fa-briefcase"></i> Experience</h3>
+  <div class="cv-item">
+    <strong>Tampere University</strong> — Teaching Assistant & Content Crew<br>
+    <span class="cv-meta">Finland | Sep 2024 – Present (Part-time)</span>
+    <ul class="cv-list">
+      <li>Assisted with HTI-100, supporting 100+ students (grading, course support)</li>
+      <li>Created social media content (top Instagram Reel: 11.3K+ views)</li>
+      <li>Wrote top-3 blog on winter mental health (8K+ views, featured on University Weixin)</li>
+      <li>Supported incoming students via UniBuddy</li>
+    </ul>
+  </div>
+  <div class="cv-item">
+    <strong>Visma</strong> — Design System Trainee<br>
+    <span class="cv-meta">Finland | May 2024 – Sep 2024 (Full-time)</span>
+    <ul class="cv-list">
+      <li>Collaborated with UX Designers/Developers on scalable Design System components</li>
+      <li>Researched and authored thesis on chatbot flow with Zapier & Voiceflow</li>
+    </ul>
+  </div>
+  <div class="cv-item">
+    <strong>BESI B.V.</strong> — UX Consultant<br>
+    <span class="cv-meta">Netherlands (Remote) | May 2024 – Jun 2024 (Contract)</span>
+    <ul class="cv-list">
+      <li>Led the re-design of the user interface for BESI's inspection application       <!-- Place this just before your .sidebar div -->
+      <button class="hamburger" aria-label="Open menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button></li>
+      <li>Advised on UX roadmap and created detailed sketches</li>
+    </ul>
+  </div>
+  <div class="cv-item">
+    <strong>Writerzen</strong> — UI/UX Designer<br>
+    <span class="cv-meta">Vietnam (Remote) | Apr 2022 – Jun 2023 (Full-time)</span>
+    <ul class="cv-list">
+      <li>Conducted UX research and improved onboarding experience</li>
+      <li>Helped build design system and component library</li>
+      <li>Collaborated on marketing landing pages</li>
+    </ul>
+  </div>
+  <div class="cv-item">
+    <strong>ILA Vietnam</strong> — Teaching Assistant<br>
+    <span class="cv-meta">Vietnam | Jun 2020 – Oct 2021 (Part-time)</span>
+    <ul class="cv-list">
+      <li>Supported curriculum for students aged 5–17</li>
+      <li>Assisted teachers and managed admin tasks</li>
+      <li>Liaised between parents and customer service</li>
+    </ul>
+  </div>
+</div>
+   
+   <hr class="section-divider">
+
+    <!-- Awards -->
+    <div class="cv-block">
+      <h3><i class="fas fa-star"></i> Awards</h3>
+      <ul class="cv-list">
+        <li><strong>2023:</strong> Winner team, BRIDG3 Hackathon (1,000€)</li>
+        <li><strong>2022:</strong> Scholarship: 100% tuition fee (24,000€)</li>
+        <li><strong>2022:</strong> Winner team, Inclusive Cities Hackathon (1,500€)</li>
+        <li><strong>2021:</strong> Early bachelor's degree graduation (3,200€)</li>
+        <li><strong>2019:</strong> Winner team, Dash Lapland Hackathon (150€)</li>
+        <li><strong>2017:</strong> 2nd prize in Literature, high school students competition in Quang Nam province</li>
+        <li><strong>2016:</strong> Silver medal in Literature, national competition for high school students from the central & southern of Vietnam</li>
+      </ul>
+    </div>
+
+    <hr class="section-divider">
+
+    <!-- Certificates -->
+    <div class="cv-block">
+      <h3><i class="fas fa-certificate"></i> Certificates</h3>
+      <div class="certificates-gallery">
+        <img src="assets/certificate.volunteer-1.png" alt="Certificate 1">
+        <img src="assets/certificate_gem.jpeg" alt="Certificate 2">
+        <img src="assets/inbound marketing, certification.png" alt="Certificate 3">
+        <img src="assets/coursera-1.png" alt="Certificate 4">
+        <img src="assets/coursera-2-1.png" alt="Certificate 5">
+        <img src="assets/consultant-certificate-1.png" alt="Certificate 6">
+      </div>
+    </div>
+
+    <hr class="section-divider">
+
+    <!-- Publications -->
+    <div class="cv-block">
+      <h3><i class="fas fa-book"></i> Publications</h3>
+      <ul class="cv-list">
+        <li>Tran, K. U. Q. (2024). AI in the workplace: The study of employee perspectives toward a chatbot usage and trust. Tampere University.</li>
+        <li>Tran, K. U. Q. (2021). Wellness travel motivation post COVID-19: Case Vietnam [Bachelor's thesis, Lapland University of Applied Sciences]. Theseus.</li>
+      </ul>
+    </div>
+
+    <hr class="section-divider">
+
+
+    <!-- Referees -->
+    <div class="cv-block">
+      <h3><i class="fas fa-user-friends"></i> Referees</h3>
+      <ul class="cv-list">
+        <li>
+          <strong>Prof. Kaisa Väänänen</strong><br>
+          Professor of Human-Technology Interaction, Tampere University<br>
+          <a href="mailto:kaisa.väänänen@tuni.fi">kaisa.väänänen@tuni.fi</a>
+        </li>
+        <li>
+          <strong>Dr. Jari Varsaluoma</strong><br>
+          University Lecturer of Human-Technology Interaction, Tampere University<br>
+          <a href="mailto:jari.varsaluoma@tuni.fi">jari.varsaluoma@tuni.fi</a>
+        </li>
+        <li>
+          <strong>Melina Kukkasela</strong><br>
+          Design Lead, Visma Aquila Oy<br>
+          <a href="mailto:melina.kukkasela@visma.com">melina.kukkasela@visma.com</a>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+</section>
+
+
+<section id="blogs" class="section">
+  <h2>Blog Posts</h2>
+  <p style="margin-bottom: 1rem; font-weight: 500;">Total blog posts: 7</p>
+  <div class="cards">
+    <!-- Featured blog -->
+    
+    
+    
+    <div class="card featured-blog">
+      
+      <h2>How to overcome the impostor syndrome in design</h2>
+      <h5>Published: 23.10.2022</h5>
+      <p>One element is killing your design thinking, not the skill, but the impostor syndrome inside yourself. You feel unconfident from time to time and overcoming these feelings are challenging. Don’t worry. You’re not alone.</p>
+      <a href="/blog/post-4/" class="read-more">Read More</a>
+    </div>
+    <!-- Next 3 blogs -->
+    <div class="blog-list">
+      
+        <div class="card">
+          <h3>Full master scholarship in HCI with an unrelated bachelor’s degree: My 5 steps</h3>
+          <h5>Published: 12.04.2022</h5>
+          <p>I’ve been admitted for the Master of Computing Science, Human-Technology Interaction with a 100% tuition-fee scholarship from Tampere University, Finland, without a relevant bachelor’s. Here are my 5 steps you can follow.</p>
+          <a href="/blog/post-2/" class="read-more">Read More</a>
+        </div>
+      
+        <div class="card">
+          <h3>Challenging when mapping storyboards? These are helpful tips for you</h3>
+          <h5>Published: 12.03.2022</h5>
+          <p>Storyboarding is an essential step of a design project. However, many freshers found it challenging from time to time. Thus, if you’re curious about how to overcome, this article is for you.</p>
+          <a href="/blog/post-3/" class="read-more">Read More</a>
+        </div>
+      
+        <div class="card">
+          <h3>The 5Ws you should ask when starting participating observation for design project</h3>
+          <h5>Published: 06.09.2021</h5>
+          <p>This is the content of your latest blog post. Add your insights here!</p>
+          <a href="/blog/post-6/" class="read-more">Read More</a>
+        </div>
+      
+        <div class="card">
+          <h3>VR/AR designer opportunities in the movement of virtual tourism post-covid-19</h3>
+          <h5>Published: 11.08.2021</h5>
+          <p>Virtual tourism is getting more and more popular nowadays, and how the VR/AR Designer can take advantage of it.</p>
+          <a href="/blog/post-5/" class="read-more">Read More</a>
+        </div>
+      
+        <div class="card">
+          <h3>Don’t stick with only the User-centre Design process, these two UX models will blow your mind</h3>
+          <h5>Published: 11.08.2021</h5>
+          <p>As UX Designers, we’re all familiar with the well-known design term “User-centered design,” (UCD) yet the scope of User Experience (UX) extends far beyond that...</p>
+          <a href="/blog/post-1/" class="read-more">Read More</a>
+        </div>
+      
+    </div>
+  </div>
+  <a href="/blog/archive-blog/" class="read-more" style="color: var(--accentColor); font-weight: 500; text-decoration: underline; display: block; margin-top: 1rem;">See archive blog posts &rarr;</a>
+</section>
+    </main>
+  </div>
+  <script src="/script.js"></script>
+</body>
+</html>
