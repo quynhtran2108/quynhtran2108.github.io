@@ -1047,3 +1047,12 @@ p {
   font-size: 0.95em;
   font-family: 'Fira Mono', monospace;
 }
+
+.about-section,
+.portfolio-list,
+.cv-block,
+.blog-list,
+.blog-post-content,
+.portfolio-post-content {
+  line-height: 1.7;
+}
