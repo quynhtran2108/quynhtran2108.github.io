@@ -1047,3 +1047,13 @@ p {
   font-size: 0.95em;
   font-family: 'Fira Mono', monospace;
 }
+
+.section {
+  padding-top: 3rem; /* adjust as needed for your design */
+}
+
+.section > h1,
+.section > h2,
+.section > h3 {
+  margin-top: 0 !important;
+}

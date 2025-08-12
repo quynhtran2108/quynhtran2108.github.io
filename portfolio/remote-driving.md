@@ -38,7 +38,7 @@ The evaluation included task-based driving exercises, UI and AR view reviews, pa
 <img src="/assets/remote-documents.png" style="width:100%; display:block; margin:auto;" />
 <p style="text-align:center;"></p>
 
-<img src="/assets/remote-document 2.png" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/remote-document2.png" style="width:100%; display:block; margin:auto;" />
 <p style="text-align:center;"><em>Figure: Interview transcripts & recordings</em></p>
 
 <hr class="section-divider">

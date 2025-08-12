@@ -72,10 +72,10 @@ As players follow their chosen character through the city, they complete field-s
 
 ## Other references
 
-<img src="/assets/web3- quizz-game idea.png" alt="demo" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/web3-quizz-gameidea.png" alt="demo" style="width:100%; display:block; margin:auto;" />
 <p style="text-align:center;"><em>Figure: Quiz game idea</em></p>
 
-<img src="/assets/web3- userflow.png" alt="demo" style="width:100%; display:block; margin:auto;" />
+<img src="/assets/web3-userflow.png" alt="demo" style="width:100%; display:block; margin:auto;" />
 <p style="text-align:center;"><em>Figure: Userflow</em></p>
 
 <hr class="section-divider">

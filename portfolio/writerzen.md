@@ -40,7 +40,7 @@ I was involved in a multi-functional team with my fellow UX Designer, Design Lea
 
 [On-board new SEO users Figma prototype](https://www.figma.com/proto/YEcdh3lLV7EHnGFycQydxk/-Onboarding--Prototype?page-id=0%3A1&node-id=2-27384&starting-point-node-id=2%3A27384&t=iWxN4LQxyTgIOx9B-1)
 
-<img src="/assets/writerzen-outcome-onboarding.avif" alt="Writerzen App Screenshot" style="max-width:600px;width:100%;margin-bottom:2rem;">
+<img src="/assets/writerzen-onboarding.png" alt="Writerzen App Screenshot" style="max-width:600px;width:100%;margin-bottom:2rem;">
 
 <img src="/assets/writerzen-outcome-dashboard.avif" alt="Writerzen App Screenshot" style="max-width:600px;width:100%;margin-bottom:2rem;">
 

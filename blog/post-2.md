@@ -20,7 +20,7 @@ summary: "I’ve been admitted for the Master of Computing Science, Human-Techno
 Tampere University is the third largest and one of the most multidisciplinary universities in Finland. The university placed 34th and the top 250–300th world university in the recently announced Times Higher Education Young University Rankings for 2022.
 
 **The university ranking facts:**  
-[Resources: Times Higher Education](/assets/blog-6,2.webp)
+<img src="/assets/blog-6,2.webp" alt="Hassenzahl’s UX Model sketched by me" style="width:80%; display:block; margin:auto;" />
 
 To get to know about my background, I graduated from a Finnish university of applied sciences with a bachelor’s degree in hospitality management. At the time I applied for the master’s degree, I didn’t have any prior work experience in user experience design or a related bachelor’s degree. But, in some way, I attempted to connect my background to the human-computer interaction field as much as feasible and demonstrate my knowledge in HCI. These are 5 steps that I have done to prepare for my application to the HCI master’s degree.
 
