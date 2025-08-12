@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Blog Archive</title>
+  <link rel="stylesheet" href="style.css" />
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+  <button class="hamburger" aria-label="Open menu">
+    <span></span>
+    <span></span>
+    <span></span>
+  </button>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="identity">
+        <img src="assets/Logo.png" alt="Logo" class="logo" style="width:60px; height:60px; vertical-align:middle; margin-right:8px;">
+        <h1 class="name">Quynh Tran</h1>
+        <p class="subheading">UX Designer & inspired PhD candidate</p>
+      </div>
+      <nav class="nav">
+        <a href="#home" class="nav-link" data-section="home">HOME</a>
+        <a href="#about" class="nav-link" data-section="about">ABOUT</a>
+        <a href="#portfolio" class="nav-link" data-section="portfolio">PORTFOLIO</a>
+        <a href="#cv" class="nav-link" data-section="cv">CV</a>
+        <a href="#blogs" class="nav-link" data-section="blogs">BLOGS</a>    
+      </nav>
+      <div class="social-icons">
+        <a href="https://www.linkedin.com/in/quynhtran1999/" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+        <a href="https://scholar.google.com/citations?user=your-scholar-id" target="_blank" aria-label="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
+        <a href="https://medium.com/@tran.quynh" target="_blank" aria-label="Medium"><i class="fab fa-medium"></i></a>
+        <a href="https://github.com/quynhtran2108" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
+      </div>
+    </aside>
+    <!-- Move overlay here, outside sidebar -->
+    <div class="sidebar-overlay"></div>
+    <main class="content">
+      <section id="archive-blogs" class="section">
+  <h2>Archived Blog Posts</h2>
+  <div class="blog-list">
+  <a href="../../#blogs" style="color: var(--accentColor); font-weight: 500; text-decoration: underline; display: block; margin-top: 1rem;">&larr; Back to blogs</a>
+<p><div class="card"></p>
+<p><h3>VR/AR designer opportunities in the movement of virtual tourism post-covid-19</h3>
+<h5>Published: 11.08.2021</h5>
+<p>Virtual tourism is getting more and more popular nowadays, and how the VR/AR Designer can take advantage of it.</p>
+<a href="/blog/post-5/" class="read-more">Read More</a>
+</div></p>
+<p><div class="card"></p>
+<p><h3>Don’t stick with only the User-centre Design process, these two UX models will blow your mind</h3>
+<h5>Published: 11.08.2021</h5>
+<p>As UX Designers, we’re all familiar with the well-known design term “User-centered design,” (UCD) yet the scope of User Experience (UX) extends far beyond that...</p>
+<a href="/blog/post-1/" class="read-more">Read More</a>
+</div></p>
+<p><div class="card"></p>
+<p><h3>No need to spend 3 years to squircle your logo. Figma can help in 1 minute.</h3>
+<h5>Published: 27.07.2021</h5>
+<p>According to Shen, it is reported from Xiaomi representer that the company has spent... </p>
+<a href="/blog/post-7/" class="read-more">Read More</a>
+</div></p>
+  </div>
+</section>
+    </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
