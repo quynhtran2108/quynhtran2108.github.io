@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Usability testing for the remote driving system</title>
+  <link rel="stylesheet" href="style.css" /> 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+  <button class="hamburger" aria-label="Open menu">
+    <span></span>
+    <span></span>
+    <span></span>
+  </button>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="identity">
+        <img src="/assets/logo.png" alt="Logo" class="logo" style="width:60px; height:60px; vertical-align:middle; margin-right:8px;">
+        <a href="/" style="text-decoration:none; color:inherit;">
+          <h1 class="name">Quynh Tran</h1>
+        </a>
+        <p class="subheading">UX Designer & inspired PhD candidate</p>
+      </div>
+      <div class="social-icons">
+        <a href="https://www.linkedin.com/in/quynhtran1999/" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+        <a href="https://scholar.google.com/citations?user=your-scholar-id" target="_blank" aria-label="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
+        <a href="https://medium.com/@quynhtran2108" target="_blank" aria-label="Medium"><i class="fab fa-medium"></i></a>
+        <a href="https://github.com/quynhtran2108" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
+      </div>
+    </aside>
+    <!-- Move overlay here, outside sidebar -->
+    <div class="sidebar-overlay"></div>
+    <main class="content">
+      <article class="blog-post-content">
+        <article class="portfolio-post-content">
+<h1>Usability testing for the remote driving system</h1>
+<h2>My role</h2>
+<p>My role involved preparing the prototype setup, designing wireframes and UI mockups in Figma, and creating a structured evaluation plan. The test was carried out at Tampere University’s lab with four participants who had prior driving experience.</p>
+<h2>Summary</h2>
+<p>Our team set out to design a remote driving aid for wheel loaders, motivated by the potential to improve safety in hazardous environments and to support novice drivers in gaining initial driving experience. We explored Augmented Reality (AR) as a way to deliver real-time environmental and vehicle information to the operator.</p>
+<img src="/assets/remote-demoreality.jpeg" style="width:70%; display:block; margin:auto;" />
+<p style="text-align:center;"><em>Figure: Demo reality</em></p>
+<p>Two usage contexts guided our design: <strong>(1) professionals operating in dangerous locations such as mines, forests, construction sites, or even space</strong> and <strong>(2) new or anxious drivers who could benefit from remote practice before driving in real conditions.</strong></p>
+<img src="/assets/remote-usermindmap1.png" style="width:100%; display:block; margin:auto;" />
+<p style="text-align:center;"><em>Figure: User mindmap 1</em></p>
+<img src="/assets/remote-usermindmap2.png" style="width:100%; display:block; margin:auto;" />
+<p style="text-align:center;"><em>Figure: User mindmap 2</em></p>
+<p>The prototype setup included multiple live video feeds from vehicle-mounted cameras, a steering wheel, joysticks for speed and bucket control, a touchscreen for settings, and auditory feedback. AR overlays displayed speed, fuel, and bucket status. We developed the system in C++ using OpenCV and OpenGL for video processing and visualisation, with ROS for robot control. I designed the wireframes and UI mockups in Figma.</p>
+<img src="/assets/remote-Maindisplay.png" style="width:100%; display:block; margin:auto;" />
+<p style="text-align:center;"><em>Figure: Main display interface, tool: Figma</em></p>
+<p>The evaluation included task-based driving exercises, UI and AR view reviews, participant interviews, and observational analysis via video recordings. I focused on identifying ease of use, comparing the experience to normal driving, and uncovering strengths and weaknesses of the system.</p>
+<img src="/assets/remote-testing.png" style="width:100%; display:block; margin:auto;" />
+<p style="text-align:center;"><em>Figure: Testing session</em></p>
+<img src="/assets/remote-documents.png" style="width:100%; display:block; margin:auto;" />
+<p style="text-align:center;"></p>
+<img src="/assets/remote-document 2.png" style="width:100%; display:block; margin:auto;" />
+<p style="text-align:center;"><em>Figure: Interview transcripts & recordings</em></p>
+<hr class="section-divider">
+<h2>Other References</h2>
+<img src="/assets/remote-setupsketching.png" style="width:100%; display:block; margin:auto;" />
+<p style="text-align:center;"><em>Figure: Sketching demo setup</em></p>
+<img src="/assets/remote-sketch.png" style="width:100%; display:block; margin:auto;" />
+<p style="text-align:center;"><em>Figure: Sketching display setup</em></p>
+<img src="/assets/remote-userpersona.jpeg" style="width:100%; display:block; margin:auto;" />
+<p style="text-align:center;"><em>Figure: User persona 1</em></p>
+<img src="/assets/remote-userpersona2.jpeg" style="width:100%; display:block; margin:auto;" />
+<p style="text-align:center;"><em>Figure: User persona 2</em></p>
+<img src="/assets/remote-userflowNikko-frontloader1.png" style="width:100%; display:block; margin:auto;" />
+<p style="text-align:center;"><em>Figure: User flow frontloader for user persona</em></p>
+<hr class="section-divider">
+<p><a href="/#portfolio" style="color: var(--accentColor); font-weight: 500; text-decoration: underline; display: block; margin-top: 1rem;">← Back to portfolio</a></p>
+<p><a href="/portfolio/web3hackathon/" style="color: var(--accentColor); font-weight: 500; text-decoration: underline; display: block; margin-top: 1rem;">Next: Role-playing game for teen education, metaverse &amp; Web3 hackathon →</a></p>
+</article>
+
+      </article>
+    </main>
+  </div>
+  <script src="script.js"></script></body>
+  </html>
