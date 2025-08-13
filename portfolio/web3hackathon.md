@@ -49,7 +49,7 @@ To better understand the target audience, the city arranged a short interview se
 The results revealed that most students were interested in incorporating gamification into manufacturing-related learning to make it more exciting. Interestingly, many admitted they knew very little about manufacturing — what it involves, possible career paths, or skill requirements. This highlighted the need for better career orientation and knowledge-sharing to bring the field closer to young people.
 
 <img src="/assets/web3-ideaconcept.png" style="width:100%; display:block; margin:auto;" />
-<p style="text-align:center;"><em>Figure: Thematic analysis</em></p>
+<p style="text-align:center;"><em>Figure: Ideas concept</em></p>
 
 Based on these insights, our team brainstormed and developed a gamified app concept showcasing the manufacturing industry’s rich history, current achievements, and future possibilities. The app would be a role-playing game where students choose a character and use it to explore Tampere while completing tasks. Each character represents a manufacturing field — for example, car mechanics, metal/welding, process industry, food production, or telecommunications manufacturing.
 
@@ -73,6 +73,9 @@ As players follow their chosen character through the city, they complete field-s
 <hr class="section-divider">
 
 ## Other references
+
+<img src="/assets/web3-cityview.png" alt="demo" style="width:100%; display:block; margin:auto;" />
+<p style="text-align:center;"><em>Figure: Game concept</em></p>
 
 <img src="/assets/web3-quizz-gameidea.png" alt="demo" style="width:100%; display:block; margin:auto;" />
 <p style="text-align:center;"><em>Figure: Quiz game idea</em></p>
